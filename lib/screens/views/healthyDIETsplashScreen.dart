@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:uncle_bens_diet_app/views/healthyDietCarousel.dart';
+
+import 'healthyDietCarousel.dart';
 
 
 
